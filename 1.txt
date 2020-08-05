@@ -7,3 +7,4 @@ hello, posh-git
 7th line
 1
 2
+3

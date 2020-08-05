@@ -5,3 +5,7 @@ hello, posh-git
 5th line
 6th line
 7th line
+1
+2
+3
+4
